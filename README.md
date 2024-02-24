@@ -1,4 +1,4 @@
-# git_assignment
+# Токаренко Д.А.
 
 file edited by fast commit
 
